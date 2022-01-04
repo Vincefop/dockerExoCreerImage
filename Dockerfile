@@ -1,5 +1,5 @@
 # version node alpine:3.14
-FROM node:current-alpine:3.14
+FROM node:current-alpine3.14
 
 #Je détermine un espace de travail
 WORKDIR /angular-realworld-example-app/app
